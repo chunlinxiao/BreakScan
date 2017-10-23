@@ -12,4 +12,6 @@ BreakScan is a novel Kmer-based structural variation discovery method, which doe
 <br />
 Reference:
 
+<br />
+
 Chunlin Xiao and Stephen Sherry, Integrated breakpoint analysis and structural variation detection using sequencing reads from multiple sequencing technologies for an Ashkenazi trio; (Abstract/Program #1382).  Presented at the 67th Annual Meeting of The American Society of Human Genetics, October 19, 2017, Orlando, Florida.  
